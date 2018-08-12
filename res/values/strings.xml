@@ -1,0 +1,166 @@
+<resources>
+    <string name="app_name">ProDance TV</string>
+    <string name="youtube_apikey">AIzaSyD1lc_D9RVKk954arcg1BDNEJN8TjZf42U</string>
+    <string name="googleplay_url">https://play.google.com/store/apps/details?id=ruslanann.myappyoutube</string>
+    <string name="banner_ad_id">ca-app-pub-7805813606100398/8062268267</string>
+    <string name="interstitial_ad_id">ca-app-pub-7805813606100398/2015734666</string>
+    <string-array name="channel_names">
+        <item>NEW Video</item>
+        <item>GAME OF BREAKERS 2016</item>
+        <item>THE KULTURE OF HYPE and HOPE</item>
+        <item>RESPECT CULTURE 2016 | 1on1</item>
+        <item>THE CONCEPT 2016</item>
+        <item>RED BULL BC ONE CONTINENT BATTLE 2016</item>
+        <item>RED BULL BC ONE LAST CHANCE CYPHER 2016</item>
+        <item>GROOVE SESSION 2016</item>
+        <item>PESSAC BATTLE ARENA 2016</item>
+        <item>BATTLE OF THE FEST 2016</item>
+        <item>BATTLE AUTHENTIK 7</item>
+        <item>THE NOTORIOUS IBE 2016</item>
+        <item>CHILL IN THE CITY</item>
+        <item>MOUNFUNK X CAPBEAST CYPHER | WBC LAST CHANCE QUALIFIER 2016</item>
+        <item>RED BULL BC ONE HOLLAND CYPHER 2016</item>
+        <item>WORLD BBOY CLASSIC | WORLD FINAL 2016</item>
+        <item>BOTY ITALY WILD CARD QUALIFIER 2016</item>
+        <item>ROCK THE FLOOR 2016</item>
+        <item>UK BBOY CHAMPIONSHIPS 2016</item>
+        <item>UNDISPUTED X UK BBOY CHAMPIONSHIPS 2016</item>
+        <item>BREAKJUNKIES 2016</item>
+        <item>MARSEILLE BATTLE PRO 2016</item>
+        <item>HIP OPSESSION 2016</item>
+        <item>#TUTORIALTUESDAY BY BREAK ADVICE | ONLINE BREAKING SCHOOL</item>
+        <item>BEST OF PRODANCETV 2015</item>
+        <item>UNDISPUTED WORLD BBOY MASTERS 2015</item>
+        <item>READY 2 RUMBLE 2015</item>
+        <item>RED BULL BC ONE WORLD FINAL ITALY 2015</item>
+        <item>Make Your Choice Contest 2015</item>
+        <item>BEST DANCE MOMENTS</item>
+        <item>RED BULL BC ONE WESTERN EUROPE FINAL 2015</item>
+        <item>R16 KOREA WORLD FINAL 2015</item>
+        <item>THE NOTORIOUS IBE 2015</item>
+        <item>PRODANCE X SLOW MO SERIES</item>
+    </string-array>
+    <string-array name="video_types">
+        <item>1</item>
+        <item>2</item>
+        <item>2</item>
+        <item>2</item>
+        <item>2</item>
+        <item>2</item>
+        <item>2</item>
+        <item>2</item>
+        <item>2</item>
+        <item>2</item>
+        <item>2</item>
+        <item>2</item>
+        <item>2</item>
+        <item>2</item>
+        <item>2</item>
+        <item>2</item>
+        <item>2</item>
+        <item>2</item>
+        <item>2</item>
+        <item>2</item>
+        <item>2</item>
+        <item>2</item>
+        <item>2</item>
+        <item>2</item>
+        <item>2</item>
+        <item>2</item>
+        <item>2</item>
+        <item>2</item>
+        <item>2</item>
+        <item>2</item>
+        <item>2</item>
+        <item>2</item>
+        <item>2</item>
+        <item>2</item>
+    </string-array>
+    <string-array name="channel_id">
+        <item>UCLRCoLpDImkbFw8D3qXFpUQ</item>
+        <!--<item>UCySwo6Ue4QxxsYDvIBdwynw</item>-->
+        <item>PLBaVOsCG8UBIbOXGxboua7AbfirIFA9hh</item>
+        <item>PLBaVOsCG8UBKsAAEV16NsON0hQksDlO7P</item>
+        <item>PLBaVOsCG8UBJJVTR0FPbA1-Nz-C1aa9sB</item>
+        <item>PLBaVOsCG8UBLfJ__q77dctAjTxb4yiwR4</item>
+        <item>PLBaVOsCG8UBIPGvpqQPXL8lp1qxkpU2Ew</item>
+        <item>PLBaVOsCG8UBIZEjOun3ngA2P-dstytBYR</item>
+        <item>PLBaVOsCG8UBKHT4NM4ipByl-zoJ2L6oaz</item>
+        <item>PLBaVOsCG8UBKWwa0Tiba8rWPL3M_CBYPG</item>
+        <item>PLBaVOsCG8UBL9NMeaxZ6bgK4iBjYpgSpv</item>
+        <item>PLfuRJP9ukNTfoBhyr4MGG3ZrRpiXHF6SD</item>
+        <item>PLBaVOsCG8UBLJQHGGiB3UgsrCF8MCHGuA</item>
+        <item>PLBaVOsCG8UBJza4UjY3dCLbK4X_dyWbe8</item>
+        <item>PLBaVOsCG8UBJ_5HkYKU4WzYrgebWzXp7f</item>
+        <item>PLBaVOsCG8UBL8M49CCkdTCm1rJgE3LjZ3</item>
+        <item>PLBaVOsCG8UBKyuHuTQqNkuqknqgJPQ_bl</item>
+        <item>PLBaVOsCG8UBIRrTWXEjBJa_dD3IDIADXQ</item>
+        <item>PLBaVOsCG8UBIX2whxkCgx4DsWrGVEBrbK</item>
+        <item>PLBaVOsCG8UBJFfk1UfNhXlcOZ-n_UYhlZ</item>
+        <item>PLBaVOsCG8UBLQzgu5n2gjFhMNyXrhI8uz</item>
+        <item>PLBaVOsCG8UBKWfiKrTwo78lKzYNhAp9uX</item>
+        <item>PLBaVOsCG8UBJchzvZt5PiyYoizVCIndNy</item>
+        <item>PLBaVOsCG8UBKQgMM_GoidYcbDoISsdZpU</item>
+        <item>PLBaVOsCG8UBLYwTRLz7fc9Z-UuZhnidom</item>
+        <item>PLBaVOsCG8UBJS_naDgceYu0bWm7RZja8R</item>
+        <item>PLBaVOsCG8UBJeNUaCwknFp9LuFPtVbUoj</item>
+        <item>PLBaVOsCG8UBI7xb2OgQmsFby9Hz9ukkoQ</item>
+        <item>PLBaVOsCG8UBJ_2mcVz_qwsc2gV1aGaQ8Z</item>
+        <item>PLBaVOsCG8UBJlRL46wVZJm8xjOMS7rjP8</item>
+        <item>PLBaVOsCG8UBJisfIIDOewg-KY3v2Cz-ei</item>
+        <item>PLBaVOsCG8UBJVFONT9hvIHM1Y6KepguOt</item>
+        <item>PLBaVOsCG8UBJ448cNOaW2XGCRDIb3MA2a</item>
+        <item>PLBaVOsCG8UBKXJlMmP6CDuYKFt4HTnBcw</item>
+        <item>PLBaVOsCG8UBLJfBvpk7LpY5hop0zf1kSL</item>
+    </string-array>
+
+    <string name="about">About application</string>
+
+    <string name="no_result">Video offline</string>
+    <string name="no_internet_connection">Check the Internet connection</string>
+    <string name="response_error">Connection Time Out or Server Under Maintenance</string>
+    <string name="error_player">YouTube player initialization error (%1$s)</string>
+
+    <string name="retry">Repeat</string>
+
+    <string name="date_util_term_less">more</string>
+
+    <string name="date_util_unit_minute">minutes</string>
+    <string name="date_util_unit_minuta">minuta</string>
+    <string name="date_util_unit_minutes"> minutes</string>
+    <string name="date_util_unit_hour">hour</string>
+    <string name="date_util_unit_day">day</string>
+    <string name="date_util_unit_daya">day</string>
+    <string name="date_util_unit_days">days</string>
+    <string name="date_util_unit_month">month</string>
+    <string name="date_util_unit_months">months</string>
+    <string name="date_util_unit_year">year</string>
+    <string name="date_util_unit_years">years</string>
+
+    <string name="date_util_prefix_about">about</string>
+    <string name="date_util_prefix_over">more</string>
+    <string name="date_util_prefix_almost">about</string>
+
+    <string name="date_util_suffix">ago</string>
+
+    <string name="pref_share_key">prefShareKey</string>
+    <string name="pref_rate_review_key">prefRateReviewKey</string>
+
+    <string name="pref_app_title">About application</string>
+    <string name="pref_app_summary">video channel ProDance TV</string>
+    <string name="pref_version_title">Build version</string>
+    <string name="pref_version_summary">1.0</string>
+    <string name="pref_developer_title">Developer</string>
+    <string name="pref_developer_summary">Ruslan Annyenkov</string>
+    <string name="pref_share_title">Share app</string>
+    <string name="pref_share_summary">Let your friends know about this app</string>
+    <string name="pref_rate_review_title">Your Rating</string>
+    <string name="pref_rate_review_summary">Please rate the app and leave a review in GooglePlay</string>
+
+    <string name="share_to">Share</string>
+    <string name="subject">I recommend watching the video on the channel ProDance TV</string>
+    <string name="message">You can download app "ProDanceTV" for Android in</string>
+
+    <string name="new_videos">New video</string>
+    <string name="date_util_unit_hours">hours</string>
+</resources>
